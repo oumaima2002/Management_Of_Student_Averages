@@ -1,1 +1,4 @@
 # Management_Of_Student_Averages
+📌The objective of this program is to create part of a website to manage the students of a school.
+✅The user must first authenticate. So For this we manage 3 cases If the fields are empty then we display error message otherwise we check is it existing in our database if yes we access the menu page otherwise we stay in the authentication page.
+✅For the menu we have the choice between consulting notes for 3 cases. Depending on the conditions and the choice of the user in the list we display the specific students so we can send an email while clicking on the chosen student then we have option add in the menu allows you to add a new student with its different information and at the end an option for disconnection, when you disconnect the user does not have the right to access any page so in this case it will always be redirected to the authentication page.
